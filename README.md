@@ -1,4 +1,4 @@
-# Lab8 - Recursion
+# Lab08 - Recursion
 
 This was my submission for [Lab08](https://docs.google.com/document/d/1HS-wVnGqwPwZ4Ur1RF3S7E6cE4Pmz9We85Xu58f79fY/edit) of DDP 1 2021-2022-1. 
 
